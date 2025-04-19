@@ -12,3 +12,5 @@ conda activate Trunc
    
 
 "Examples of Generated Input" folder consists of already generated inputs from both mnist and cifar-10.
+
+This code is developed based on StyleGAN3 and PTI
