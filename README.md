@@ -9,3 +9,6 @@ conda activate Trunc
 2) Adjust paths in config.py files.
 
 3) Run: cd <dataset>/python search.py
+   
+
+"Examples of Generated Input" folder consists of already generated inputs from both mnist and cifar-10.
