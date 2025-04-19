@@ -1,0 +1,43 @@
+{
+    "INTERPOLATION_ALPHA": 1.0,
+    "accepted": false,
+    "base_channel": 0,
+    "class_idx": 9,
+    "exp-confidence": 0.4743892252445221,
+    "fault_pred": 1,
+    "force_fp32": false,
+    "img_normalize": true,
+    "img_scale_db": 0,
+    "input_transform": null,
+    "layer_name": null,
+    "mixclass_idx": null,
+    "noise_mode": "random",
+    "patch_idxs": null,
+    "predictions": [
+        0.0002381724480073899,
+        0.5252422094345093,
+        1.6334804968209937e-05,
+        3.996235682279803e-05,
+        9.26991651795106e-06,
+        1.3061126992397476e-05,
+        8.903917660063598e-06,
+        2.655783282534685e-05,
+        1.6261752534774132e-05,
+        0.4743892252445221
+    ],
+    "random_seed": 0,
+    "sel_channels": 3,
+    "stylemix_idx": [],
+    "stylemix_seed": null,
+    "to_pil": true,
+    "trunc_cutoff": null,
+    "trunc_psi": 0.6999999999999998,
+    "untransform": false,
+    "w0_seeds": [
+        [
+            273,
+            1.0
+        ]
+    ],
+    "w_load": null
+}
