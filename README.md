@@ -1,6 +1,6 @@
 # DL-fault-revealing-input-generation-via-latent-space-truncation
 
-Deep Learning Fault‑Revealing Input Generation Using Only Latent‑Space Truncation.
+Fault‑Revealing Input Generation For Deep Learning-Based System Using Only Latent‑Space Truncation.
 
 1) Installation:
 conda env create -f environment.yml
